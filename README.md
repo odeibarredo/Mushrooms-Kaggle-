@@ -1,6 +1,6 @@
 # Mushrooms (Kaggle)
 The data corresponding to this work is from [Kaggle](https://www.kaggle.com/uciml/mushroom-classification).
-The objective is to create a calsiification model to predict if a mushroom is edible or poisonous given 22 features in total.
+The objective is to create a classification model to predict if a mushroom is edible or poisonous given 22 features in total.
 
 ## Content
 - Load data
